@@ -10,6 +10,7 @@
   ],
   "icon_background": "#FFFFFF",
   "icon_cover": false,
+  "annotation_tool_link": "app/images",
   "icon": "https://imgur.com/LHD0OCt.png",
   "context_menu": {
     "target": [
