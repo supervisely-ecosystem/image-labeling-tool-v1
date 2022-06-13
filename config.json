@@ -1,6 +1,7 @@
 {
   "name": "Images labeling tool v1",
-  "type": "collection",
+  "type": "annotation_tool",
+  "annotation_tool_type": "images_v1",
   "categories": [
     "neural network",
     "images",
@@ -10,7 +11,6 @@
   ],
   "icon_background": "#FFFFFF",
   "icon_cover": false,
-  "annotation_tool_type": "images_v1",
   "icon": "https://imgur.com/LHD0OCt.png",
   "context_menu": {
     "target": [
