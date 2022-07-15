@@ -6,10 +6,10 @@
 
 With more than 5 years of constant improvement, proved by hundreds of businesses, our image labeling suite sets the highest industry standard on the market today. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/image-labeling-tool-v2)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/image-labeling-tool-v1)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=views&label=views)](https://supervise.ly)
-[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=runs&label=runs&123)](https://supervise.ly)
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v1&counter=views&label=views)](https://supervise.ly)
+[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v1&counter=runs&label=runs&123)](https://supervise.ly)
 
 <img src="https://user-images.githubusercontent.com/12828725/174077347-d29df6f9-a6da-467e-8acb-2d585b4116f4.gif"/>
 
