@@ -1,5 +1,5 @@
 {
-  "name": "Images labeling tool #1",
+  "name": "Basic Image labeling tool",
   "description": "complete solution for image annotation",
   "type": "annotation_tool",
   "annotation_tool_type": "images_v1",
